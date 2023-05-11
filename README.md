@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yogeshmathur
+- 👋 Hi, I’m @Yogeshkumar
 - 👀 I’m interested in .data structures..
 - 🌱 I’m currently learning .. data structures from c++.
 - 💞️ I’m looking to collaborate on . project 
